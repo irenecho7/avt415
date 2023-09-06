@@ -1,0 +1,31 @@
+body {
+    background-color:#6eaaff;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+h1 {
+    margin-top: 100px;
+    font-size: 70px;
+    color: #181354
+
+
+}
+
+div {
+    margin-top: 75px;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+h4{
+    font-size: 30px;
+    color: rgb(59, 59, 255);
+
+}
+p {
+    font-size: 20px;
+}

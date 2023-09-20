@@ -1,0 +1,25 @@
+body {
+    background-color:#fbfbd6;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+h1 {
+    margin-top: 100px;
+    font-size: 70px;
+    color: #ffb300
+
+}
+
+div {
+    margin-top: 75px;
+}
+
+h3 {
+    color: rgb(248, 130, 130);
+    font-size: 35px;
+}
+
+p {
+    font-size: 30px;
+}

@@ -1,3 +1,4 @@
+
 body {
     background-color: #f07c7c;
     padding-left: 150px;
@@ -7,24 +8,26 @@ body {
 
 .title {
     margin-top: 75px;
+    font-family: 'Abril Fatface', cursive;
 }
 
 .title-text {
     font-size: 125px;
     font-weight: bold;
     color: #fff6b9;
-
+    
 }
 
 .title-subText {
     color: #fff6b9;
-
     font-size: 50px;
     font-weight: 300;
+    font-family: 'Abril Fatface', cursive;
 }
 
 .subHeader{
     font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
 }
 
 .subHeader-text{
@@ -33,5 +36,5 @@ body {
 
 .bottom{
     margin-bottom: 75px;
-    
+
 }
